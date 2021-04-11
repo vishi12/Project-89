@@ -1,0 +1,17 @@
+#player1_login {
+    width:600px;
+    height:300px;
+}
+#player2_login {
+    width:600px;
+    height:300px;
+}
+#start_game {
+    background-color:orange;
+    font-size:25px;
+    height:100px;
+    width:300px;
+}
+body {
+    background-image:url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
+}
